@@ -1,0 +1,56 @@
+[
+  {
+    "width": 394,
+    "data": {
+      "initial": {
+        "main": "Nekonečno",
+        "subtitle": "Jeď opatrně, lásko",
+        "headerHeight": 0,
+        "emptyPill": false,
+        "fontLoaded": true
+      },
+      "renamed": {
+        "main": "Nový motiv",
+        "subtitle": "Text ze Shoptetu"
+      },
+      "fallback": {
+        "main": "Jiný název bez očekávaného formátu",
+        "subtitleCount": 0
+      },
+      "replaced": {
+        "price": "199 Kč",
+        "priceCount": 1,
+        "samePrice": true,
+        "standardCount": 0,
+        "availability": "Není skladem",
+        "sameAvailability": true,
+        "color": "rgb(190, 20, 30)"
+      },
+      "restore": {
+        "priceParent": "bottom",
+        "availabilityParent": "top",
+        "title": "Jiný název bez očekávaného formátu",
+        "summaryCount": 0
+      },
+      "reactivate": {
+        "priceCount": 1,
+        "availabilityCount": 1,
+        "summaryCount": 1
+      },
+      "nonpilot": {
+        "active": false,
+        "summaryCount": 0,
+        "overflow": false
+      },
+      "cart": {
+        "active": false,
+        "headerActive": false,
+        "height": 52
+      }
+    },
+    "errors": [
+      "Uncaught TypeError: Cannot read properties of undefined (reading 'length')\n    at updateSlides (https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js:12:10643)\n    at alignToCurrent (https://www.ahome.cz/user/documents/upload/gaelta/akcna-cena-product-page-swipe-v154-516222ca47f2bea8.js?v=516222ca47f2bea89cdf35644288f7b3c641b4d428bfa471c59c76aa416f1010:1024:19)",
+      "Uncaught TypeError: Cannot read properties of undefined (reading 'length')\n    at updateSlides (https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js:12:10643)\n    at alignToCurrent (https://www.ahome.cz/user/documents/upload/gaelta/akcna-cena-product-page-swipe-v154-516222ca47f2bea8.js?v=516222ca47f2bea89cdf35644288f7b3c641b4d428bfa471c59c76aa416f1010:1024:19)"
+    ]
+  }
+]

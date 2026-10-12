@@ -1,0 +1,480 @@
+[
+  {
+    "width": 394,
+    "data": {
+      ".ahome-product-top-pagination": [
+        {
+          "tag": "NAV",
+          "id": "",
+          "cls": "ahome-product-top-pagination",
+          "text": "",
+          "rect": {
+            "x": 10,
+            "y": 507.21875,
+            "width": 374,
+            "height": 40,
+            "top": 507.21875,
+            "right": 384,
+            "bottom": 547.21875,
+            "left": 10
+          },
+          "css": {
+            "display": "flex",
+            "position": "absolute",
+            "height": "40px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot is-active",
+          "text": "",
+          "rect": {
+            "x": 57,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 77,
+            "bottom": 541.21875,
+            "left": 57
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 77,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 97,
+            "bottom": 541.21875,
+            "left": 77
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 97,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 117,
+            "bottom": 541.21875,
+            "left": 97
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 117,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 137,
+            "bottom": 541.21875,
+            "left": 117
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 137,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 157,
+            "bottom": 541.21875,
+            "left": 137
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 157,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 177,
+            "bottom": 541.21875,
+            "left": 157
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 177,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 197,
+            "bottom": 541.21875,
+            "left": 177
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 197,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 217,
+            "bottom": 541.21875,
+            "left": 197
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 217,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 237,
+            "bottom": 541.21875,
+            "left": 217
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 237,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 257,
+            "bottom": 541.21875,
+            "left": 237
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 257,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 277,
+            "bottom": 541.21875,
+            "left": 257
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 277,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 297,
+            "bottom": 541.21875,
+            "left": 277
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 297,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 317,
+            "bottom": 541.21875,
+            "left": 297
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "ahome-product-top-dot",
+          "text": "",
+          "rect": {
+            "x": 317,
+            "y": 513.21875,
+            "width": 20,
+            "height": 28,
+            "top": 513.21875,
+            "right": 337,
+            "bottom": 541.21875,
+            "left": 317
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "28px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        }
+      ],
+      ".ahome-product-top-meta": [
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "ahome-product-top-meta",
+          "text": "4,9/5 (102 recenzí)Ukázka\n      \n        \n        Skladem a připraveno k odeslání",
+          "rect": {
+            "x": 10,
+            "y": 714.21875,
+            "width": 374,
+            "height": 48.5,
+            "top": 714.21875,
+            "right": 384,
+            "bottom": 762.71875,
+            "left": 10
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "48.5px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "12px / 20px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "ahome-product-top-rating",
+          "text": "4,9/5 (102 recenzí)Ukázka",
+          "rect": {
+            "x": 10,
+            "y": 714.21875,
+            "width": 198.90625,
+            "height": 24,
+            "top": 714.21875,
+            "right": 208.90625,
+            "bottom": 738.21875,
+            "left": 10
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "24px",
+            "padding": "2px 0px",
+            "margin": "0px",
+            "font": "12px / 20px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "availability-value",
+          "text": "Skladem a připraveno k odeslání",
+          "rect": {
+            "x": 10,
+            "y": 742.21875,
+            "width": 185.21875,
+            "height": 20.5,
+            "top": 742.21875,
+            "right": 195.21875,
+            "bottom": 762.71875,
+            "left": 10
+          },
+          "css": {
+            "display": "block",
+            "position": "static",
+            "height": "20.5px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "12px / 20px Roboto, sans-serif",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        }
+      ]
+    },
+    "errors": []
+  }
+]

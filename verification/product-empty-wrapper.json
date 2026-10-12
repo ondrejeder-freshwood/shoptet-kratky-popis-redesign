@@ -1,0 +1,199 @@
+[
+  {
+    "width": 394,
+    "data": {
+      ".p-image-wrapper": [
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "col-xs-12 col-lg-6 p-image-wrapper",
+          "text": "Akce -28 %\n        \n                \n    \n\n                    \n                    \n\n                        ",
+          "rect": {
+            "x": 0,
+            "y": 139.21875,
+            "width": 394,
+            "height": 649,
+            "top": 139.21875,
+            "right": 394,
+            "bottom": 788.21875,
+            "left": 0
+          },
+          "css": {
+            "display": "block",
+            "position": "relative",
+            "height": "649px",
+            "padding": "0px 10px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "background": "rgba(0, 0, 0, 0)",
+            "float": "left",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "flags flags-default flags-inline",
+          "text": "Akce -28 %",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          },
+          "css": {
+            "display": "none",
+            "position": "absolute",
+            "height": "auto",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "background": "rgba(0, 0, 0, 0)",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "p-image",
+          "text": "247 Kč\n                        \n                                                                              ",
+          "rect": {
+            "x": 10,
+            "y": 139.21875,
+            "width": 374,
+            "height": 375,
+            "top": 139.21875,
+            "right": 384,
+            "bottom": 514.21875,
+            "left": 10
+          },
+          "css": {
+            "display": "block",
+            "position": "relative",
+            "height": "375px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "background": "rgb(255, 253, 249)",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "NAV",
+          "id": "",
+          "cls": "ahome-product-top-pagination",
+          "text": "",
+          "rect": {
+            "x": 10,
+            "y": 514.21875,
+            "width": 374,
+            "height": 24,
+            "top": 514.21875,
+            "right": 384,
+            "bottom": 538.21875,
+            "left": 10
+          },
+          "css": {
+            "display": "flex",
+            "position": "relative",
+            "height": "24px",
+            "padding": "0px",
+            "margin": "0px 0px 12px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "background": "rgb(255, 255, 255)",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "p-thumbnails-wrapper",
+          "text": "",
+          "rect": {
+            "x": 10,
+            "y": 550.21875,
+            "width": 374,
+            "height": 75,
+            "top": 550.21875,
+            "right": 384,
+            "bottom": 625.21875,
+            "left": 10
+          },
+          "css": {
+            "display": "block",
+            "position": "static",
+            "height": "75px",
+            "padding": "0px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "background": "rgba(0, 0, 0, 0)",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "top",
+          "text": "",
+          "rect": {
+            "x": 10,
+            "y": 625.21875,
+            "width": 20,
+            "height": 10,
+            "top": 625.21875,
+            "right": 30,
+            "bottom": 635.21875,
+            "left": 10
+          },
+          "css": {
+            "display": "block",
+            "position": "static",
+            "height": "10px",
+            "padding": "5px 10px",
+            "margin": "0px",
+            "font": "14px / 21.84px Roboto, sans-serif",
+            "background": "rgba(0, 128, 0, 0.1)",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "id": "",
+          "cls": "ahome-product-top-summary",
+          "text": "Dřevěná vůně do auta – Nekonečno - Jeď opatrně, lásko\n\n                    4,9/5 (102 recenzí)Ukázka\n      \n  ",
+          "rect": {
+            "x": 10,
+            "y": 641.21875,
+            "width": 374,
+            "height": 137,
+            "top": 641.21875,
+            "right": 384,
+            "bottom": 778.21875,
+            "left": 10
+          },
+          "css": {
+            "display": "flex",
+            "position": "static",
+            "height": "137px",
+            "padding": "4px 0px",
+            "margin": "6px 0px 10px",
+            "font": "14px / 21.84px Montserrat, sans-serif",
+            "background": "rgba(0, 0, 0, 0)",
+            "float": "none",
+            "whiteSpace": "normal"
+          }
+        }
+      ]
+    },
+    "errors": []
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "width": 394,
+    "data": [
+      {
+        "s": ".p-detail-inner",
+        "html": "<div class=\"p-detail-inner\">\n\n        <div class=\"p-detail-inner-header\">\n            <div class=\"h1\">\n                  Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko            </div>\n\n                    </div>\n\n        <form action=\"/action/Cart/addCartItem/\" method=\"post\" id=\"product-detail-form\" class=\"pr-action csrf-enabled\" data-testid=\"formProduct\">\n\n            <meta itemprop=\"productID\" content=\"1325\"><meta itemprop=\"identifier\" content=\"0842d0bc-3f9c-11f0-b701-1abd5f483e00\"><meta itemprop=\"sku\" content=\"DV 39\"><span itemprop=\"offers\" itemscope=\"\" itemtype=\"https://schema.org/Offer\"><link itemprop=\"availability\" href=\"https://schema.org/InStock\"><meta itemprop=\"url\" content=\"https://www.ahome.cz/drevena-vune-do-auta-fresh-wood-nekonecno/\"><meta itemprop=\"price\" content=\"177.00\"><meta itemprop=\"priceCurrency\" content=\"CZK\"><link itemprop=\"itemCondition\" href=\"https://schema.org/NewCondition\"><span id=\"microdata-shipping-details-0\" itemprop=\"shippingDetails\" itemscope=\"\" itemtype=\"https://schema.org/OfferShippingDetails\"><meta itemprop=\"shippingLabel\" content=\"Doručení na adresu - kurýrem\"><span itemprop=\"shippingRate\" itemscope=\"\" itemtype=\"https://schema.org/MonetaryAmount\"><meta itemprop=\"value\" content=\"79.00\"><meta itemprop=\"currency\" content=\"CZK\"></span><span itemprop=\"shippingDestination\" itemscope=\"\" itemtype=\"https://schema.org/DefinedRegion\"><meta itemprop=\"addressCountry\" content=\"CZ\"></span><span itemprop=\"deliveryTime\" itemscope=\"\" itemtype=\"https://schema.org/ShippingDeliveryTime\"><span itemprop=\"handlingTime\" itemscope=\"\" itemtype=\"https://s",
+        "rect": {
+          "x": 10,
+          "y": 150.21875,
+          "width": 374,
+          "height": 1037.859375,
+          "top": 150.21875,
+          "right": 384,
+          "bottom": 1188.078125,
+          "left": 10
+        },
+        "css": {
+          "display": "block",
+          "position": "static",
+          "height": "1037.86px",
+          "minHeight": "0px",
+          "paddingTop": "20px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-image-wrapper",
+        "html": "<div class=\"col-xs-12 col-lg-6 p-image-wrapper\"><div class=\"flags flags-default flags-inline\">            <span class=\"flag flag-action\">Akce -28 %</span>\n        \n                \n    </div>\n\n                    \n                    <div class=\"p-image\" style=\"\" data-testid=\"mainImage\">\n\n                        \n\n    \n\n    <div class=\"flags flags-extra\" style=\"display: none;\">\n      \n                \n                                                                              \n            <span class=\"flag flag-discount\">\n                                                                    <span class=\"price-standard\">\n                                            <span>247 Kč</span>\n                        </span>\n                                                                                                            <span class=\"price-save\">\n            \n                        \n                -28 %\n        </span>\n                                    </span>\n              </div>\n\n                        \n\n<div id=\"wrap\" style=\"top:0px;z-index:0;position:relative;\"><a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"p-main-image\" data-href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/orig/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" data-alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" style=\"position: relative; display: block;\" data-ahome-main-click-bound=\"1\"><img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" width=\"1024\" height=\"1024\" fetchpriority=\"high\" style=\"display: block;\" loading=\"eager\">\n</a></div>                    </div>\n\n                    \n    <div class=\"p-thumbnails-wrapper\" data-swiper-init=\"true\">\n\n        <div class=\"p-thumbnails p-thumbnails-horizontal overflow-next\" style=\"display: none;\">\n\n            <div class=\"p-thumbnails-inner\" style=\"left: 0px;\">\n\n                <div>\n                                                                                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"p-thumbnail highlighted\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=68e3b539&amp;sg=8dda0505\" alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=68e3b539&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement main-image-thumbnail\" data-gallery=\"lightbox[gallery]\" data-alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" aria-hidden=\"true\" tabindex=\"-1\"></a>\n                                                                    <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba423&amp;sg=38cb01fe\" class=\"p-thumbnail\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba423&amp;sg=8dda0505\" alt=\"ChatGPT Image Sep 17, 2026, 10 22 36 AM\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba423&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba423&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement\" data-gallery=\"lightbox[gallery]\" data-alt=\"ChatGPT Image Sep 17, 2026, 10 22 36 AM\" aria-hidden=\"true\" tabindex=\"-1\"></a><a href=\"#video-slide-2\" class=\"p-thumbnail video-lightbox\" data-rel=\"product-gallery\" data-ahome-video-thumb=\"true\" data-video-src=\"https://716622.myshoptet.com/user/documents/upload/Videa/CZ verzia 2 (1).mp4\" data-poster=\"https://716622.myshoptet.com/user/documents/upload/Videa/Fotky k videím do galerie/1325-5.jpg\" style=\"position: relative;\"><div class=\"play-overlay\"></div><video class=\"ahome-video-preview\" loop=\"\" playsinline=\"\" preload=\"none\" poster=\"https://716622.myshoptet.com/user/documents/upload/Videa/Fotky k videím do galerie/1325-5.jpg\" data-src=\"https://716622.myshoptet.com/user/documents/upload/Videa/CZ verzia 2 (1).mp4\" style=\"width: 100%; height: auto; object-fit: cover; display: block;\" data-observed=\"1\"></video></a><a href=\"#video-slide-3\" class=\"p-thumbnail video-lightbox\" data-rel=\"product-gallery\" data-ahome-video-thumb=\"true\" data-video-src=\"https://www.ahome.cz/user/documents/upload/Vůně - Nekonečno - CZ - s FB komentem - v03 - 1.mp4\" data-poster=\"https://cdn-icons-png.flaticon.com/512/727/727245.png\" style=\"position: relative;\"><div class=\"play-overlay\"></div><video class=\"ahome-video-preview\" loop=\"\" playsinline=\"\" preload=\"none\" poster=\"https://cdn-icons-png.flaticon.com/512/727/727245.png\" data-src=\"https://www.ahome.cz/user/documents/upload/Vůně - Nekonečno - CZ - s FB komentem - v03 - 1.mp4\" style=\"width: 100%; height: auto; object-fit: cover; display: block;\" data-observed=\"1\"></video></a>\n                                                                    <a href=\"https://cdn.myshopt",
+        "rect": {
+          "x": 0,
+          "y": 303.21875,
+          "width": 394,
+          "height": 538,
+          "top": 303.21875,
+          "right": 394,
+          "bottom": 841.21875,
+          "left": 0
+        },
+        "css": {
+          "display": "block",
+          "position": "relative",
+          "height": "538px",
+          "minHeight": "1px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-image",
+        "html": "<div class=\"p-image\" style=\"\" data-testid=\"mainImage\">\n\n                        \n\n    \n\n    <div class=\"flags flags-extra\" style=\"display: none;\">\n      \n                \n                                                                              \n            <span class=\"flag flag-discount\">\n                                                                    <span class=\"price-standard\">\n                                            <span>247 Kč</span>\n                        </span>\n                                                                                                            <span class=\"price-save\">\n            \n                        \n                -28 %\n        </span>\n                                    </span>\n              </div>\n\n                        \n\n<div id=\"wrap\" style=\"top:0px;z-index:0;position:relative;\"><a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"p-main-image\" data-href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/orig/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" data-alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" style=\"position: relative; display: block;\" data-ahome-main-click-bound=\"1\"><img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" width=\"1024\" height=\"1024\" fetchpriority=\"high\" style=\"display: block;\" loading=\"eager\">\n</a></div>                    </div>",
+        "rect": {
+          "x": 10,
+          "y": 303.21875,
+          "width": 374,
+          "height": 374,
+          "top": 303.21875,
+          "right": 384,
+          "bottom": 677.21875,
+          "left": 10
+        },
+        "css": {
+          "display": "block",
+          "position": "relative",
+          "height": "374px",
+          "minHeight": "0px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-thumbnails",
+        "html": "<div class=\"p-thumbnails p-thumbnails-horizontal overflow-next\" style=\"display: none;\">\n\n            <div class=\"p-thumbnails-inner\" style=\"left: 0px;\">\n\n                <div>\n                                                                                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"p-thumbnail highlighted\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=68e3b539&amp;sg=8dda0505\" alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=68e3b539&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement main-image-thumbnail\" data-gallery=\"lightbox[gallery]\" data-alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" aria-hidden=\"true\" tabindex=\"-1\"></a>\n                                                                    <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba423&amp;sg=38cb01fe\" class=\"p-thumbnail\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba423&amp;sg=8dda0505\" alt=\"ChatGPT Image Sep 17, 2026, 10 22 36 AM\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba423&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba423&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement\" data-gallery=\"lightbox[gallery]\" data-alt=\"ChatGPT Image Sep 17, 2026, 10 22 36 AM\" aria-hidden=\"true\" tabindex=\"-1\"></a><a href=\"#video-slide-2\" class=\"p-thumbnail video-lightbox\" data-rel=\"product-gallery\" data-ahome-video-thumb=\"true\" data-video-src=\"https://716622.myshoptet.com/user/documents/upload/Videa/CZ verzia 2 (1).mp4\" data-poster=\"https://716622.myshoptet.com/user/documents/upload/Videa/Fotky k videím do galerie/1325-5.jpg\" style=\"position: relative;\"><div class=\"play-overlay\"></div><video class=\"ahome-video-preview\" loop=\"\" playsinline=\"\" preload=\"none\" poster=\"https://716622.myshoptet.com/user/documents/upload/Videa/Fotky k videím do galerie/1325-5.jpg\" data-src=\"https://716622.myshoptet.com/user/documents/upload/Videa/CZ verzia 2 (1).mp4\" style=\"width: 100%; height: auto; object-fit: cover; display: block;\" data-observed=\"1\"></video></a><a href=\"#video-slide-3\" class=\"p-thumbnail video-lightbox\" data-rel=\"product-gallery\" data-ahome-video-thumb=\"true\" data-video-src=\"https://www.ahome.cz/user/documents/upload/Vůně - Nekonečno - CZ - s FB komentem - v03 - 1.mp4\" data-poster=\"https://cdn-icons-png.flaticon.com/512/727/727245.png\" style=\"position: relative;\"><div class=\"play-overlay\"></div><video class=\"ahome-video-preview\" loop=\"\" playsinline=\"\" preload=\"none\" poster=\"https://cdn-icons-png.flaticon.com/512/727/727245.png\" data-src=\"https://www.ahome.cz/user/documents/upload/Vůně - Nekonečno - CZ - s FB komentem - v03 - 1.mp4\" style=\"width: 100%; height: auto; object-fit: cover; display: block;\" data-observed=\"1\"></video></a>\n                                                                    <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba454&amp;sg=38cb01fe\" class=\"p-thumbnail\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba454&amp;sg=8dda0505\" alt=\"ChatGPT Image Sep 17, 2026, 10 16 56 AM (6)\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba454&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba454&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement\" data-gallery=\"lightbox[gallery]\" data-alt=\"ChatGPT Image Sep 17, 2026, 10 16 56 AM (6)\" aria-hidden=\"true\" tabindex=\"-1\"></a>\n                                                                    <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba41d&amp;sg=38cb01fe\" class=\"p-thumbnail\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba41d&amp;sg=8dda0505\" alt=\"ChatGPT Image Sep 17, 2026, 10 24 31 AM\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba41d&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba41d&amp;sg=38cb",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "css": {
+          "display": "none",
+          "position": "relative",
+          "height": "125px",
+          "minHeight": "0px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-thumbnails-inner",
+        "html": "<div class=\"p-thumbnails-inner\" style=\"left: 0px;\">\n\n                <div>\n                                                                                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"p-thumbnail highlighted\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=68e3b539&amp;sg=8dda0505\" alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=68e3b539&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement main-image-thumbnail\" data-gallery=\"lightbox[gallery]\" data-alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" aria-hidden=\"true\" tabindex=\"-1\"></a>\n                                                                    <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba423&amp;sg=38cb01fe\" class=\"p-thumbnail\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba423&amp;sg=8dda0505\" alt=\"ChatGPT Image Sep 17, 2026, 10 22 36 AM\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba423&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-7_chatgpt-image-sep-17--2026--10-22-36-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba423&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement\" data-gallery=\"lightbox[gallery]\" data-alt=\"ChatGPT Image Sep 17, 2026, 10 22 36 AM\" aria-hidden=\"true\" tabindex=\"-1\"></a><a href=\"#video-slide-2\" class=\"p-thumbnail video-lightbox\" data-rel=\"product-gallery\" data-ahome-video-thumb=\"true\" data-video-src=\"https://716622.myshoptet.com/user/documents/upload/Videa/CZ verzia 2 (1).mp4\" data-poster=\"https://716622.myshoptet.com/user/documents/upload/Videa/Fotky k videím do galerie/1325-5.jpg\" style=\"position: relative;\"><div class=\"play-overlay\"></div><video class=\"ahome-video-preview\" loop=\"\" playsinline=\"\" preload=\"none\" poster=\"https://716622.myshoptet.com/user/documents/upload/Videa/Fotky k videím do galerie/1325-5.jpg\" data-src=\"https://716622.myshoptet.com/user/documents/upload/Videa/CZ verzia 2 (1).mp4\" style=\"width: 100%; height: auto; object-fit: cover; display: block;\" data-observed=\"1\"></video></a><a href=\"#video-slide-3\" class=\"p-thumbnail video-lightbox\" data-rel=\"product-gallery\" data-ahome-video-thumb=\"true\" data-video-src=\"https://www.ahome.cz/user/documents/upload/Vůně - Nekonečno - CZ - s FB komentem - v03 - 1.mp4\" data-poster=\"https://cdn-icons-png.flaticon.com/512/727/727245.png\" style=\"position: relative;\"><div class=\"play-overlay\"></div><video class=\"ahome-video-preview\" loop=\"\" playsinline=\"\" preload=\"none\" poster=\"https://cdn-icons-png.flaticon.com/512/727/727245.png\" data-src=\"https://www.ahome.cz/user/documents/upload/Vůně - Nekonečno - CZ - s FB komentem - v03 - 1.mp4\" style=\"width: 100%; height: auto; object-fit: cover; display: block;\" data-observed=\"1\"></video></a>\n                                                                    <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba454&amp;sg=38cb01fe\" class=\"p-thumbnail\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba454&amp;sg=8dda0505\" alt=\"ChatGPT Image Sep 17, 2026, 10 16 56 AM (6)\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba454&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-11_chatgpt-image-sep-17--2026--10-16-56-am--6.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba454&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement\" data-gallery=\"lightbox[gallery]\" data-alt=\"ChatGPT Image Sep 17, 2026, 10 16 56 AM (6)\" aria-hidden=\"true\" tabindex=\"-1\"></a>\n                                                                    <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba41d&amp;sg=38cb01fe\" class=\"p-thumbnail\" data-ahome-close-bound=\"1\">\n                            <img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba41d&amp;sg=8dda0505\" alt=\"ChatGPT Image Sep 17, 2026, 10 24 31 AM\" width=\"100\" height=\"100\" data-src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/related/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=100&amp;y=100&amp;q=85&amp;ts=6aaba41d&amp;sg=8dda0505\" fetchpriority=\"low\" loading=\"lazy\">\n                        </a>\n                        <a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-6_chatgpt-image-sep-17--2026--10-24-31-am.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6aaba41d&amp;sg=38cb01fe\" class=\"cbox-gal cboxElement\" data-gallery=\"lightbox[gallery]\" data-alt=\"ChatGPT Image Sep 17, 2",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "css": {
+          "display": "block",
+          "position": "absolute",
+          "height": "68px",
+          "minHeight": "0px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-detail-info",
+        "html": "<div class=\"p-detail-info\">\n                                                    \n                \n    \n\n    \n                        \n                        \n                        \n                    </div>",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "css": {
+          "display": "none",
+          "position": "static",
+          "height": "auto",
+          "minHeight": "0px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "16px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-info-wrapper",
+        "html": "<div class=\"col-xs-12 col-lg-6 p-info-wrapper\"><div class=\"flags flags-default flags-inline\">            <span class=\"flag flag-action\">Akce -28 %</span>\n        \n                \n    </div><div class=\"p-detail-inner-header\">\n            <h1>\n                  Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko            </h1>\n\n                    </div><div class=\"p-detail-info\">\n                                                    \n                \n    \n\n    \n                        \n                        \n                        \n                    </div><div class=\"p-short-description\" data-testid=\"productCardShortDescr\">\n                            <ul>\n<li>🌲 Dřevo dodá interiéru <strong>luxusní vzhled</strong></li>\n<li>🌸 Dlouhotrvající<strong> svěží vůně</strong></li>\n<li>✨ Prvotřídní kvalita díky<strong> ruční výrobě</strong></li>\n</ul>\n                        <p data-testid=\"productCardDescr\" class=\"vice\">\n                            <a class=\"chevron-after chevron-down-after\" data-external=\"1\" data-force-scroll=\"true\">Více informací</a>\n                        </p></div>\n\n                    \n                    \n                        \n\n                    \n                    \n                                                                                    \n                                                    \n                        <table class=\"detail-parameters\">\n                            <tbody>\n                            \n                            \n                            \n                                                            <tr class=\"hidden\">\n                                    <td colspan=\"2\">                                        <span class=\"delivery-time-label\">Můžeme doručit do:</span>\n                                                                    \n                                                                                            </td>                                </tr>\n                                                                                    </tbody>\n                        </table>\n\n                                                                            \n                        \n                            \n                    \n                    \n                    \n\n                                            \n                    \n                                            \n                    \n                    <div class=\"buy-box\"><div class=\"bottom\"><div class=\"p-final-price-wrapper\">\n\n                                <span class=\"price-standard\">\n                                            <span>247 Kč</span>\n                        </span>\n                                <span class=\"price-save\">\n            \n                        \n                -28 %\n        </span>\n                            <strong class=\"price-final price-action\" data-testid=\"productCardPrice\">\n            <span class=\"price-final-holder\">\n                177 Kč\n    \n\n        </span>\n    </strong>\n                                                            <span class=\"price-measure\">\n        <span class=\"sr-only\">Měrná cena: </span>\n                    \n                        </span>\n                            \n\n                        </div><div class=\"add-to-cart\" data-testid=\"divAddToCart\">\n                \n<span class=\"quantity\">\n    <span class=\"increase-tooltip js-increase-tooltip\" data-trigger=\"manual\" data-container=\"body\" data-original-title=\"Není možné zakoupit více než 9999 ks.\" aria-hidden=\"true\" role=\"tooltip\" data-testid=\"tooltip\">\n    </span>\n\n    <span class=\"decrease-tooltip js-decrease-tooltip\" data-trigger=\"manual\" data-container=\"body\" data-original-title=\"Minimální množství, které lze zakoupit, je 1 ks.\" aria-hidden=\"true\" role=\"tooltip\" data-testid=\"tooltip\">\n    </span>\n\n    <label>\n        <span class=\"sr-only\">Množství</span>\n        <input type=\"number\" name=\"amount\" value=\"1\" class=\"amount\" autocomplete=\"off\" data-decimals=\"0\" step=\"1\" min=\"1\" max=\"9999\" data-testid=\"cartAmount\">\n    </label>\n\n    <button class=\"increase\" type=\"button\" aria-label=\"Zvýšit množství o 1\" data-testid=\"increase\">\n            <span class=\"increase__sign\">+</span>\n    </button>\n\n    <button class=\"decrease\" type=\"button\" aria-label=\"Snížit množství o 1\" data-testid=\"decrease\">\n            <span class=\"decrease__sign\">−</span>\n    </button>\n</span>\n                    \n    <button type=\"submit\" class=\"btn btn-lg btn-conversion add-to-cart-button\" data-testid=\"buttonAddToCart\" aria-label=\"Přidat do košíku Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko\">Vložit do košíku</button>\n\n            </div></div></div><div class=\"social-buttons-wrapper\"><div class=\"znacka\"></div>\n                        <div class=\"link-icons\" data-testid=\"productDetailActionIcons\">\n    <a href=\"#\" class=\"link-icon print\" title=\"Tisknout produkt\"><span>Tisk</span></a>\n    <a href=\"/drevena-vune-do-auta-fresh-wood-nekonecno:dotaz/\" class=\"link-icon chat\" title=\"Mluvit s prodejcem\" rel=\"nofollow\" data-testid=\"buttonAskQuestion\"><span>Dotaz k produktu</span></a>\n                <a href=\"#\" class=\"link-icon share js-share-buttons-trigger\" title=\"Sdílet produkt\"><span>Sdílet</span></a>\n    </div>\n                            <div class=\"social-buttons no-display\">\n                    <div class=\"twitter\">\n                <script>\n        window.twttr = (function(d, s, id) {\n            var js, fjs = d.getElementsByTagName(s)[0],\n                t = window.twttr || {};\n            if (d.getElementById(id)) return t;\n            js = d.createElement(s);\n            js.id = id;\n            js.src = \"https://platform.twitter.com/widgets.js\";\n            fjs.parentNode.insertBefore(js, fjs);\n            t._e = [];\n            t.ready = function(f) {\n                t._e.push(f);\n            };\n            return t;\n        }(document, \"script\", \"twitter-wjs\"));\n        </script>\n\n<iframe id=\"twitter-widget-0\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"true\" class=\"twitter-share-button twitter-share-button-rendered twitter-tweet-button\" title=\"X Post Button\" src=\"https://platform.twitter.com/widgets/tweet_button.1227a5674072e080ffb1ba14ac0c1079.cs.html#dnt=false&amp;id=twitter-widget-0&amp;lang=cs&amp;original_referer=https%3A%2F%2Fwww.ahome.cz%2Fdrevena-vune-do-auta-fresh-wood-nekonecno%2F&amp;size=m&amp;text=D%C5%99ev%C4%9Bn%C3%A1%20v%C5%AFn%C4%9B%20do%20auta%20%E2%80%93%20Nekone%C4%8Dno%20-%20Je%C4%8F%2",
+        "rect": {
+          "x": 0,
+          "y": 841.21875,
+          "width": 394,
+          "height": 346.859375,
+          "top": 841.21875,
+          "right": 394,
+          "bottom": 1188.078125,
+          "left": 0
+        },
+        "css": {
+          "display": "block",
+          "position": "relative",
+          "height": "346.859px",
+          "minHeight": "1px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-data-wrapper",
+        "missing": true
+      },
+      {
+        "s": ".p-detail-inner h1",
+        "html": "<h1>\n                  Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko            </h1>",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "css": {
+          "display": "inline-block",
+          "position": "static",
+          "height": "auto",
+          "minHeight": "0px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "10px",
+          "marginBottom": "0px",
+          "font": "500 30px / 39px Helvetica, serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".p-final-price-wrapper",
+        "html": "<div class=\"p-final-price-wrapper\">\n\n                                <span class=\"price-standard\">\n                                            <span>247 Kč</span>\n                        </span>\n                                <span class=\"price-save\">\n            \n                        \n                -28 %\n        </span>\n                            <strong class=\"price-final price-action\" data-testid=\"productCardPrice\">\n            <span class=\"price-final-holder\">\n                177 Kč\n    \n\n        </span>\n    </strong>\n                                                            <span class=\"price-measure\">\n        <span class=\"sr-only\">Měrná cena: </span>\n                    \n                        </span>\n                            \n\n                        </div>",
+        "rect": {
+          "x": 10,
+          "y": 967.15625,
+          "width": 127.15625,
+          "height": 55.828125,
+          "top": 967.15625,
+          "right": 137.15625,
+          "bottom": 1022.984375,
+          "left": 10
+        },
+        "css": {
+          "display": "block",
+          "position": "static",
+          "height": "55.8281px",
+          "minHeight": "auto",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".availability-value",
+        "html": "<div class=\"availability-value\" title=\"Dostupnost\">\n      <div class=\"custom-availability\">\n        <span class=\"pulse-dot\"></span>\n        <span>Skladem a připraveno k odeslání</span>\n      </div>\n    </div>",
+        "rect": {
+          "x": 20,
+          "y": 802.21875,
+          "width": 247.921875,
+          "height": 34,
+          "top": 802.21875,
+          "right": 267.921875,
+          "bottom": 836.21875,
+          "left": 20
+        },
+        "css": {
+          "display": "block",
+          "position": "static",
+          "height": "34px",
+          "minHeight": "0px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "0px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgba(0, 0, 0, 0)"
+        }
+      },
+      {
+        "s": ".breadcrumbs-wrapper",
+        "html": "<div class=\"container breadcrumbs-wrapper\">\n            <div class=\"breadcrumbs navigation-home-icon-wrapper ready\" itemscope=\"\" itemtype=\"https://schema.org/BreadcrumbList\">\n                                                                            <span id=\"navigation-first\" data-basetitle=\"Ahome\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\">\n                <a href=\"/\" itemprop=\"item\" class=\"navigation-home-icon\"><span class=\"sr-only\" itemprop=\"name\">Domů</span></a>\n                <span class=\"navigation-bullet\">/</span>\n                <meta itemprop=\"position\" content=\"1\">\n            </span>\n                                <span id=\"navigation-1\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\">\n                <a href=\"/vune/\" itemprop=\"item\" data-testid=\"breadcrumbsSecondLevel\"><span itemprop=\"name\">Vůně do auta</span></a>\n                <span class=\"navigation-bullet\">/</span>\n                <meta itemprop=\"position\" content=\"2\">\n            </span>\n                                <span id=\"navigation-2\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\">\n                <a href=\"/vune-do-auta/\" itemprop=\"item\" data-testid=\"breadcrumbsSecondLevel\"><span itemprop=\"name\">Vůně do auta</span></a>\n                <span class=\"navigation-bullet\">/</span>\n                <meta itemprop=\"position\" content=\"3\">\n            </span>\n                                            <span id=\"navigation-3\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\" data-testid=\"breadcrumbsLastLevel\">\n                <meta itemprop=\"item\" content=\"https://www.ahome.cz/drevena-vune-do-auta-fresh-wood-nekonecno/\">\n                <meta itemprop=\"position\" content=\"4\">\n                <span itemprop=\"name\" data-title=\"Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko\">Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko <span class=\"appendix\"></span></span>\n            </span>\n            </div>\n        </div>",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "css": {
+          "display": "none",
+          "position": "static",
+          "height": "auto",
+          "minHeight": "0px",
+          "paddingTop": "0px",
+          "paddingBottom": "0px",
+          "marginTop": "0px",
+          "marginBottom": "24px",
+          "font": "14px / 21.84px Roboto, sans-serif",
+          "background": "rgb(245, 245, 245)"
+        }
+      }
+    ],
+    "errors": []
+  }
+]

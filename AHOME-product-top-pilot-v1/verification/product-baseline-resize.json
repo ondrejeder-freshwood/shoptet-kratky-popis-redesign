@@ -1,0 +1,182 @@
+[
+  {
+    "width": 394,
+    "data": {
+      "rootClass": "header-background-light external-fonts-loaded st-cookies-v2 st-cookies-corners st-cookies-btn st-cookies-thin ahome-header-v1-offsets ahome-header-v1-mobile",
+      "body": "desktop id-740 in-vune-do-auta template-11 type-product type-detail one-column-body columns-mobile-2 columns-3 blank-mode blank-mode-css ums_discussion_rating_forms--on ums_page_element_headings--on ums_forms_redesign--on ums_mobile_header_v1--on ums_jquery_fix--on ums_variant_and_filter_labels--on mobile-header-version-1 shoptak-profi-cookies ahome-ig-ready top-menu-trigger-visible cs cz related-yes lista-ano venus fvStudio-Classic fvscas-component unveiled tv-upsell tv-template-venus",
+      "header": {
+        "html": "<header id=\"header\"><div class=\"container navigation-wrapper menu-fixed\">\n    <div class=\"header-top\">\n        <div class=\"site-name-wrapper\">\n            <div class=\"site-name\"><a href=\"/\" data-testid=\"linkWebsiteLogo\"><img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/logos/vyra__bi__me_rados_(2).png\" alt=\"Ahome\" fetchpriority=\"low\" loading=\"eager\"></a></div>\n        </div>\n        <div class=\"search\" itemscope=\"\" itemtype=\"https://schema.org/WebSite\">\n            <meta itemprop=\"headline\" content=\"Dřevěné vůně do auta\"><meta itemprop=\"url\" content=\"https://www.ahome.cz\"><meta itemprop=\"text\" content=\"Dřevěné srdce s elegantní vůní do auta. Ideální jako pozornost pro někoho blízkého. Pořiďte si ho k nákupu.\">            <form action=\"/action/ProductSearch/prepareString/\" method=\"post\" id=\"formSearchForm\" class=\"search-form compact-form js-search-main\" itemprop=\"potentialAction\" itemscope=\"\" itemtype=\"https://schema.org/SearchAction\" data-testid=\"searchForm\" novalidate=\"\">\n    <fieldset>\n        <meta itemprop=\"target\" content=\"https://www.ahome.cz/vyhledavani/?string={string}\">\n        <input type=\"hidden\" name=\"language\" value=\"cs\">\n        \n            \n<input type=\"search\" name=\"string\" class=\"query-input form-control search-input js-search-input\" placeholder=\"Napište, co hledáte (např. babička)\" autocomplete=\"off\" required=\"\" itemprop=\"query-input\" aria-label=\"Vyhledávání\" data-testid=\"searchInput\"><div class=\"search-whisperer\"></div>\n            <button type=\"submit\" class=\"btn btn-default\" data-testid=\"searchBtn\">Hledat</button>\n        \n    </fieldset>\n</form>\n        </div>\n        <!--AHOME cart original position-->\n    </div>\n    <nav id=\"navigation\" aria-label=\"Hlavní menu\" data-collapsible=\"true\"><div class=\"navigation-in menu\"><ul class=\"menu-level-1\" role=\"menubar\" data-testid=\"headerMenuItems\" style=\"display: none;\"><li class=\"menu-item-707 ext",
+        "text": "Hledat Vůně do autaVůně do auta Na míru Osvěžovače Dárkové balení SkleniceNa pivo Na víno čiré Na víno barevné Na víno nerozbitné ŠperkyŠperky na míru Náramky Náhrdelníky Klíčenky kovové Klíčenky na míru Dárkové balení HrnečkyVánoční Makronky Vtipné Rodinné Na míru Zamilované Dárkové Sprosté Ostatní PlecháčkyVánoční Vtipné Rodinné Zamilované Dárkové Sprosté Ostatní SvíčkyDifuzéry Svícny Svíčky KlíčenkyKlíčenky kožené Klíčenky dřevěné Klíčenky kovové Klíčenky na míru Víno PolštářePolštáře Polštáře se jménem Dřevěné výrobkyPrkénka Zápisníky Diáře Náramky Obrazy Alba OstatníKafíčka Čajíčky Skleněné desky Doplňkový sortiment Překvápko Dárková pera Komu hledáte dárekPro tatínky Pro dědečky Pro maminky Pro babičky Pro milovníky mazlíčků Pro člena rodiny Pro bratra, Pro sestru, Pro tetu, Pro strejdu Pro páry Pro sebe Podle povolání Vůně do auta Sklenice Svíčky Šperky Klíčenky Víno Polštáře Plecháčky Hrnečky Dřevěné výrobky Ostatní Pro koho hledáte dárek Pro tatínky Pro maminky Pro člena rodiny Pro páry Přihlášení Možnosti doručení Způsoby platby Reklamace Obchodní podmínky Podmínky ochrany osobních údajů Firemní dárky +420 511 444 919MenuVůně do autaVůně do auta Na míru Osvěžovače Dárkové balení SkleniceNa pivo Na víno čiré Na víno barevné Na víno nerozbitné ŠperkyŠperky na míru Náramky Náhrdelníky Klíčenky kovové Klíčenky na míru Dárkové balení HrnečkyVánoční Makronky Vtipné Rodinné Na míru Zamilované Dárkové Sprosté Ostatní PlecháčkyVánoční Vtipné Rodinné Zamilované Dárkové Sprosté Ostatní SvíčkyDifuzéry Svícny Svíčky KlíčenkyKlíčenky kožené Klíčenky dřevěné Klíčenky kovové Klíčenky na míru Víno PolštářePolštáře Polštáře se jménem Dřevěné výrobkyPrkénka Zápisníky Diáře Náramky Obrazy Alba OstatníKafíčka Čajíčky Skleněné desky Doplňkový sortiment Překvápko Dárková pera Komu hledáte dárekPro tatínky Pro dědečky Pro maminky Pro babičky Pro milovníky mazlíčků Pro člena rodiny Pro bratra, Pro sestru, Pro tetu, Pro strejdu Pro páry Pro sebe Podle povolání",
+        "rect": {
+          "x": 0,
+          "y": 98.21875,
+          "width": 44,
+          "height": 0,
+          "top": 98.21875,
+          "right": 44,
+          "bottom": 98.21875,
+          "left": 0
+        },
+        "display": "block",
+        "font": "14px / 21.84px Roboto, sans-serif",
+        "parent": "overall-wrapper"
+      },
+      "mobileHeader": {
+        "html": "<div class=\"top-navigation-bar\" data-testid=\"topNavigationBar\">\n\n    <div class=\"container\">\n\n        <div class=\"top-navigation-contacts\">\n            <strong>Zákaznická podpora:</strong><a href=\"mailto:info@ahome.cz\" class=\"project-email\" data-testid=\"contactboxEmail\"><span>info@ahome.cz</span></a>        </div>\n\n                            <div class=\"top-navigation-menu\">\n                <div class=\"top-navigation-menu-trigger\"></div>\n                \n                <ul class=\"top-navigation-bar-menu-helper\"></ul>\n            </div>\n        \n        <div class=\"top-navigation-tools top-navigation-tools--language\">\n            <div class=\"responsive-tools\"><div class=\"site-name\"><a href=\"/\" data-testid=\"linkWebsiteLogo\"><img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/logos/vyra__bi__me_rados_(2).png\" alt=\"Ahome\" fetchpriority=\"low\" loading=\"eager\"><img class=\"ahome-header-v1-logo\" src=\"/user/documents/upload/gaelta/header-redesign-v1/logo-slogan.svg\" alt=\"Ahome – Vyrábíme radost\" decoding=\"async\"></a></div>\n                <a href=\"#\" class=\"toggle-window\" data-target=\"search\" aria-label=\"Hledat\" data-testid=\"linkSearchIcon\"></a>\n                                                            <a href=\"#\" class=\"toggle-window\" data-target=\"login\" aria-label=\"Přihlášení\"></a>\n                                                    <div class=\"navigation-buttons\"><div class=\"lupa\"></div><button class=\"top-nav-button top-nav-button-login toggle-window\" type=\"button\" data-target=\"login\" aria-haspopup=\"dialog\" aria-controls=\"login\" aria-expanded=\"false\" data-testid=\"signin\"><span>Přihlášení</span></button>\n                \n    <a href=\"/kosik/\" class=\"btn btn-icon cart-count\" data-target=\"cart\" data-hover=\"true\" data-redirect=\"true\" data-testid=\"headerCart\" rel=\"nofollow\" aria-haspopup=\"dialog\" aria-expanded=\"false\" aria-controls=\"cart-widget\">\n        \n              ",
+        "text": "Zákaznická podpora:info@ahome.cz Přihlášení Nákupní košík Prázdný košík",
+        "rect": {
+          "x": 0,
+          "y": 34.21875,
+          "width": 394,
+          "height": 64,
+          "top": 34.21875,
+          "right": 394,
+          "bottom": 98.21875,
+          "left": 0
+        },
+        "display": "block",
+        "font": "14px / 21.84px Roboto, sans-serif",
+        "parent": "overall-wrapper"
+      },
+      "crumbs": {
+        "html": "<div class=\"container breadcrumbs-wrapper\">\n            <div class=\"breadcrumbs navigation-home-icon-wrapper ready\" itemscope=\"\" itemtype=\"https://schema.org/BreadcrumbList\">\n                                                                            <span id=\"navigation-first\" data-basetitle=\"Ahome\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\">\n                <a href=\"/\" itemprop=\"item\" class=\"navigation-home-icon\"><span class=\"sr-only\" itemprop=\"name\">Domů</span></a>\n                <span class=\"navigation-bullet\">/</span>\n                <meta itemprop=\"position\" content=\"1\">\n            </span>\n                                <span id=\"navigation-1\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\">\n                <a href=\"/vune/\" itemprop=\"item\" data-testid=\"breadcrumbsSecondLevel\"><span itemprop=\"name\">Vůně do auta</span></a>\n                <span class=\"navigation-bullet\">/</span>\n                <meta itemprop=\"position\" content=\"2\">\n            </span>\n                                <span id=\"navigation-2\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\">\n                <a href=\"/vune-do-auta/\" itemprop=\"item\" data-testid=\"breadcrumbsSecondLevel\"><span itemprop=\"name\">Vůně do auta</span></a>\n                <span class=\"navigation-bullet\">/</span>\n                <meta itemprop=\"position\" content=\"3\">\n            </span>\n                                            <span id=\"navigation-3\" itemprop=\"itemListElement\" itemscope=\"\" itemtype=\"https://schema.org/ListItem\" data-testid=\"breadcrumbsLastLevel\">\n                <meta itemprop=\"item\" content=\"https://www.ahome.cz/drevena-vune-do-auta-fresh-wood-nekonecno/\">\n                <meta itemprop=\"position\" content=\"4\">\n                <span itemprop=\"name\" data-title=\"Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, l",
+        "text": "Domů / Vůně do auta / Vůně do auta / Dřevěná vůně do auta – Nekonečno - Jeď opatrně, lásko",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "display": "none",
+        "font": "14px / 21.84px Roboto, sans-serif",
+        "parent": "overall-wrapper"
+      },
+      "gallery": {
+        "html": "<div class=\"col-xs-12 col-lg-6 p-image-wrapper\"><div class=\"flags flags-default flags-inline\">            <span class=\"flag flag-action\">Akce -28 %</span>\n        \n                \n    </div>\n\n                    \n                    <div class=\"p-image\" style=\"\" data-testid=\"mainImage\">\n\n                        \n\n    \n\n    <div class=\"flags flags-extra\" style=\"display: none;\">\n      \n                \n                                                                              \n            <span class=\"flag flag-discount\">\n                                                                    <span class=\"price-standard\">\n                                            <span>247 Kč</span>\n                        </span>\n                                                                                                            <span class=\"price-save\">\n            \n                        \n                -28 %\n        </span>\n                                    </span>\n              </div>\n\n                        \n\n<div id=\"wrap\" style=\"top:0px;z-index:0;position:relative;\"><a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"p-main-image\" data-href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/orig/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" data-alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" style=\"position: relative; display: block;\" data-ahome-main-click-bound=\"1\"><img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" alt=\"Dřevě",
+        "text": "Akce -28 % 247 Kč -28 % Skladem a připraveno k odeslání",
+        "rect": {
+          "x": 0,
+          "y": 251.21875,
+          "width": 394,
+          "height": 538,
+          "top": 251.21875,
+          "right": 394,
+          "bottom": 789.21875,
+          "left": 0
+        },
+        "display": "block",
+        "font": "14px / 21.84px Roboto, sans-serif",
+        "parent": "row product-top"
+      },
+      "mainImage": {
+        "html": "<div class=\"p-image\" style=\"\" data-testid=\"mainImage\">\n\n                        \n\n    \n\n    <div class=\"flags flags-extra\" style=\"display: none;\">\n      \n                \n                                                                              \n            <span class=\"flag flag-discount\">\n                                                                    <span class=\"price-standard\">\n                                            <span>247 Kč</span>\n                        </span>\n                                                                                                            <span class=\"price-save\">\n            \n                        \n                -28 %\n        </span>\n                                    </span>\n              </div>\n\n                        \n\n<div id=\"wrap\" style=\"top:0px;z-index:0;position:relative;\"><a href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" class=\"p-main-image\" data-href=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/orig/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" data-alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" style=\"position: relative; display: block;\" data-ahome-main-click-bound=\"1\"><img src=\"https://cdn.myshoptet.com/usr/www.ahome.cz/user/shop/big/1325-5_drevena-vune-do-auta---fresh-wood-nekonecno-jed-opatrne--lasko.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=68e3b539&amp;sg=38cb01fe\" alt=\"Dřevěná vůně do auta – Fresh Wood Nekonečno - Jeď opatrně, lásko\" width=\"1024\" height=\"1024\" fetchpriority=\"high\" style=\"display: block;\" loading=\"eager\">\n</a></div>                    </div>",
+        "text": "247 Kč -28 %",
+        "rect": {
+          "x": 10,
+          "y": 251.21875,
+          "width": 374,
+          "height": 374,
+          "top": 251.21875,
+          "right": 384,
+          "bottom": 625.21875,
+          "left": 10
+        },
+        "display": "block",
+        "font": "14px / 21.84px Roboto, sans-serif",
+        "parent": "col-xs-12 col-lg-6 p-image-wrapper"
+      },
+      "title": {
+        "html": "<h1>\n                  Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko            </h1>",
+        "text": "Dřevěná vůně do auta – Nekonečno - Jeď opatrně, lásko",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "display": "inline-block",
+        "font": "500 30px / 39px Helvetica, serif",
+        "parent": "p-detail-inner-header"
+      },
+      "availability": {
+        "html": "<div class=\"availability-value\" title=\"Dostupnost\">\n      <div class=\"custom-availability\">\n        <span class=\"pulse-dot\"></span>\n        <span>Skladem a připraveno k odeslání</span>\n      </div>\n    </div>",
+        "text": "Skladem a připraveno k odeslání",
+        "rect": {
+          "x": 20,
+          "y": 750.21875,
+          "width": 247.921875,
+          "height": 34,
+          "top": 750.21875,
+          "right": 267.921875,
+          "bottom": 784.21875,
+          "left": 20
+        },
+        "display": "block",
+        "font": "14px / 21.84px Roboto, sans-serif",
+        "parent": "top"
+      },
+      "price": {
+        "html": "<div class=\"p-final-price-wrapper\">\n\n                                <span class=\"price-standard\">\n                                            <span>247 Kč</span>\n                        </span>\n                                <span class=\"price-save\">\n            \n                        \n                -28 %\n        </span>\n                            <strong class=\"price-final price-action\" data-testid=\"productCardPrice\">\n            <span class=\"price-final-holder\">\n                177 Kč\n    \n\n        </span>\n    </strong>\n                                                            <span class=\"price-measure\">\n        <span class=\"sr-only\">Měrná cena: </span>\n                    \n                        </span>\n                            \n\n                        </div>",
+        "text": "247 Kč -28 % 177 Kč Měrná cena:",
+        "rect": {
+          "x": 10,
+          "y": 915.15625,
+          "width": 127.15625,
+          "height": 55.828125,
+          "top": 915.15625,
+          "right": 137.15625,
+          "bottom": 970.984375,
+          "left": 10
+        },
+        "display": "block",
+        "font": "14px / 21.84px Roboto, sans-serif",
+        "parent": "bottom"
+      },
+      "activeThumbs": [],
+      "overflow": false,
+      "searchOpen": {
+        "body": "desktop id-740 in-vune-do-auta template-11 type-product type-detail one-column-body columns-mobile-2 columns-3 blank-mode blank-mode-css ums_discussion_rating_forms--on ums_page_element_headings--on ums_forms_redesign--on ums_mobile_header_v1--on ums_jquery_fix--on ums_variant_and_filter_labels--on mobile-header-version-1 shoptak-profi-cookies ahome-ig-ready top-menu-trigger-visible cs cz related-yes lista-ano venus fvStudio-Classic fvscas-component unveiled tv-upsell tv-template-venus user-action-visible search-window-visible",
+        "inputRects": [
+          {
+            "x": 10,
+            "y": 62,
+            "width": 374,
+            "height": 40,
+            "top": 62,
+            "right": 384,
+            "bottom": 102,
+            "left": 10
+          }
+        ]
+      },
+      "afterBannerClose": {
+        "headerBottom": 64,
+        "crumbTop": 0,
+        "oldHeaderHeight": 0
+      },
+      "desktopRestore": {
+        "title": "Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko",
+        "priceCount": 1,
+        "cartCount": 1,
+        "overflow": false
+      },
+      "mobileAgain": {
+        "title": "Dřevěná vůně do auta –  Nekonečno - Jeď opatrně, lásko",
+        "priceCount": 1,
+        "overflow": false
+      }
+    },
+    "errors": [
+      "Uncaught TypeError: Cannot read properties of undefined (reading 'length')\n    at updateSlides (https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js:12:10643)\n    at alignToCurrent (https://www.ahome.cz/user/documents/upload/gaelta/akcna-cena-product-page-swipe-v154-516222ca47f2bea8.js?v=516222ca47f2bea89cdf35644288f7b3c641b4d428bfa471c59c76aa416f1010:1024:19)",
+      "Uncaught TypeError: Cannot read properties of undefined (reading 'length')\n    at updateSlides (https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js:12:10643)\n    at alignToCurrent (https://www.ahome.cz/user/documents/upload/gaelta/akcna-cena-product-page-swipe-v154-516222ca47f2bea8.js?v=516222ca47f2bea89cdf35644288f7b3c641b4d428bfa471c59c76aa416f1010:1024:19)"
+    ]
+  }
+]

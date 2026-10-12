@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="27" height="26" viewBox="0 0 27 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Play video">
+<rect x="0.5" y="0.5" width="26" height="25" rx="12.5" fill="white"/>
+<rect x="0.5" y="0.5" width="26" height="25" rx="12.5" stroke="#D1D5DB"/>
+<path id="Play" d="M10 8.12469C9.33333 7.79219 9 8.12469 9 9.12219V17.1022C9 18.0998 9.5 18.266 10.5 17.601L17.5 13.611C18.1667 13.2785 18.1667 12.7797 17.5 12.1147L10 8.12469Z" fill="#6B7280"/>
+</g>
+</svg>
