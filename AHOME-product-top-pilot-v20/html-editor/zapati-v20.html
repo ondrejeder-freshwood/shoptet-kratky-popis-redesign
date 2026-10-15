@@ -1,0 +1,175 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"><script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TV5J9C4Q');</script>
+<link rel="stylesheet" href="/user/documents/upload/CSS/instagram-strip.css?v=1.4">
+<script src="/user/documents/upload/JS/instagram-strip.js?v=1.3" defer></script>
+
+<script>document.querySelector('.js-search-input').placeholder = 'Napište, co hledáte (např. babička)';</script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    try {
+        const data = getShoptetDataLayer();
+        if (data?.customer?.registered === true) {
+            document.body.classList.add("customer-logged-in");
+        }
+    } catch (e) {
+        console.log("Could not read Shoptet dataLayer", e);
+    }
+});
+</script>
+
+<script src="https://cdn.myshoptet.com/usr/www.ahome.cz/user/documents/upload/gaelta/body.js?v=0.2"></script>
+<style>.ahome-gallery-arrow,.thumbnail-prev,.thumbnail-next{background:transparent!important;border-radius:0!important}#cboxContent{border-top:0!important;border-left:0!important;border-right:0!important}#cboxLoadedContent{padding-top:0!important;padding-left:0!important;padding-right:0!important}</style>
+<script>
+    (function (c, s, q, u, a, r, e) {
+        c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)};
+        c._hjSettings = { hjid: a };
+        r = s.getElementsByTagName('head')[0];
+        e = s.createElement('script');
+        e.async = true;
+        e.src = q + c._hjSettings.hjid + u;
+        r.appendChild(e);
+    })(window, document, 'https://static.hj.contentsquare.net/c/csq-', '.js', 6419410);
+</script>
+<script>
+//
+document.addEventListener('DOMContentLoaded', function() {
+  const menuSpodek = document.querySelector('#navigation .menu-spodek');
+  const hamburgerMenu = document.querySelector('a[data-target="navigation"]');
+  
+  if (menuSpodek && hamburgerMenu) {
+    menuSpodek.addEventListener('click', function(e) {
+      e.preventDefault();
+      hamburgerMenu.click();
+    });
+  }
+});
+</script>
+
+
+<script type="module" crossorigin src="https://shoptet-customizace-produktu.web.app/client.js"></script>
+
+
+
+
+
+<script>
+(() => {
+  if (window.__midaGa4Relay) return;
+  window.__midaGa4Relay = true;
+  const sent = new Set();
+  const send = event => {
+    if (!event || !/^mida_(execute|pageview|conversion)$/.test(event.event) || typeof window.gtag !== 'function') return;
+    const key = `${event.event}|${event.id}|${event.variant}|${event.timestamp}`;
+    if (sent.has(key)) return;
+    sent.add(key);
+    window.gtag('event', event.event, { send_to: 'G-P6P6Q7FHDN', id: event.id, name: event.name, variant: event.variant, uuid: event.uuid, timestamp: event.timestamp, event_name: event.event_name });
+  };
+  const dataLayer = window.dataLayer = window.dataLayer || [];
+  dataLayer.forEach(send);
+  const push = dataLayer.push;
+  dataLayer.push = function(...events) {
+    events.forEach(send);
+    return push.apply(this, events);
+  };
+})();
+</script>
+
+<script>
+(() => {
+  const PRICE_TEST_ID = 28597;
+  const PRICE_TEST_PATH = '/drevena-vune-do-auta-fresh-wood-tati-jezdi-opatrne/';
+  const EXECUTE_KEY = `mida-executed-${PRICE_TEST_ID}`;
+  const revenueSeen = window.__midaPurchaseSeen || (window.__midaPurchaseSeen = new Set());
+
+  const getConsent = event => {
+    const direct = event?.detail?.cookie_consent || event?.cookie_consent;
+    if (direct) return direct.analytics;
+    const dataLayer = window.dataLayer || [];
+    for (let index = dataLayer.length - 1; index >= 0; index -= 1) {
+      if (dataLayer[index]?.cookie_consent) return dataLayer[index].cookie_consent.analytics;
+    }
+    return window.cookie_consent?.analytics;
+  };
+
+  const grantConsent = event => {
+    if (window.__midaConsentBusy) return;
+    window.__midaConsentBusy = true;
+    try {
+      const analytics = getConsent(event);
+      const granted = analytics === true || analytics === 'granted';
+      const denied = analytics === false || analytics === 'denied';
+      if (granted) {
+        window.mida?.grantConsent?.(true);
+        if (sessionStorage.getItem(EXECUTE_KEY)) return;
+        if (/[?&](?:kupon|ab_price|coupon)=/.test(location.search)) {
+          sessionStorage.setItem(EXECUTE_KEY, '1');
+          return;
+        }
+        const data = window.getShoptetDataLayer?.();
+        const cartQty = data?.cart?.reduce((sum, item) => sum + (item.quantity || 0), 0) || 0;
+        if (location.pathname === PRICE_TEST_PATH && cartQty === 0) {
+          sessionStorage.setItem(EXECUTE_KEY, '1');
+          window.mida?.execute?.(PRICE_TEST_ID);
+        }
+      } else if (denied) {
+        window.mida?.grantConsent?.(false);
+      }
+    } finally {
+      window.__midaConsentBusy = false;
+    }
+  };
+
+  document.addEventListener('cookie_consent', grantConsent);
+  document.addEventListener('update_consent', grantConsent);
+  window.addEventListener('load', grantConsent);
+  grantConsent();
+
+  const handlePurchase = event => {
+    const purchase = event?.event === 'purchase' && event.ecommerce
+      ? event.ecommerce
+      : event?.[0] === 'event' && event?.[1] === 'purchase'
+        ? event[2]?.ecommerce || event[2]
+        : null;
+    if (!purchase) return;
+    const tx = String(purchase.transaction_id || purchase.id || '');
+    if (!tx || revenueSeen.has(tx) || sessionStorage.getItem(`mida-purchase-${tx}`)) return;
+    revenueSeen.add(tx);
+    sessionStorage.setItem(`mida-purchase-${tx}`, '1');
+    const order = window.getShoptetDataLayer?.()?.order;
+    const orderValue = Number(order?.total) - Number(order?.shipping);
+    const value = Number.isFinite(orderValue)
+      ? orderValue
+      : Number(purchase.value || purchase.revenue || 0);
+    const coupon = order?.discountCoupons?.[0]?.code || String(purchase.coupon || '').split('~')[0] || null;
+    window.mdq = window.mdq || [];
+    window.mdq.push(['track', 'purchase_revenue', {
+      transactionID: tx,
+      revenue: value,
+      currency: purchase.currency || order?.currencyCode || 'CZK',
+      coupon
+    }]);
+  };
+
+  const dataLayer = window.dataLayer = window.dataLayer || [];
+  dataLayer.forEach(handlePurchase);
+  const push = dataLayer.push;
+  dataLayer.push = function (...events) {
+    events.forEach(handlePurchase);
+    return push.apply(this, events);
+  };
+})();
+</script>
+
+<script id="shkUrlCouponDataExtensionJson" type="application/json">
+{"url_param":["kupon","ab_price","coupon"]}
+</script>
+
+
+<script src="https://cdn.myshoptet.com/usr/744953.myshoptet.com/user/documents/upload/category-variant-from-listing.js?v=10"></script>
+<script src="/user/documents/upload/JS/cart-sticky.js?v=2"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap">
+<script src="/user/documents/upload/JS/kratky-popis.js?v=20.1" defer></script>

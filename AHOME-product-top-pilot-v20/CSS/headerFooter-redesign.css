@@ -1,0 +1,1028 @@
+/* Footer – na všetkých stránkach*/
+footer#footer {
+    background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%);
+    color: black !important;
+}
+#footer {
+        background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%);
+}
+
+#footer ul a, #footer h4, #footer .copyright, .copyright a.js-cookies-settings, #signature a,header .navigation-in > ul > li > a, .menu-helper>span, .menu-helper, .lupa, .btn.cart-count::before, a.btn.cart-count::before, .btn.cart-count .cart-price, .top-navigation-bar a:not(.btn-back-to-shop), .dropdown button, .top-navigation-bar .toggle-window  {
+    color: black !important;
+}
+.navigation-buttons > a[data-target="cart"] i, .cart-count i {
+color: #fff !important;
+    background: #000 !important;
+} 
+/* .cart-count[aria-expanded="true"] .cart-price{
+    color: #fff !important;
+} */
+
+.cart-window-visible .btn.cart-count::before {
+    color: #000 !important;
+}
+#footer ul .facebook a, #footer ul .instagram a {
+    color: white !important;
+}
+#footer ul .facebook a:hover, #footer ul .instagram a:hover {
+    color: #f7cbaa !important;
+}
+.menu-helper:hover>span, .menu-helper:hover {
+    color: #fff !important;
+}
+#header .navigation-in li .active b{
+    font-weight: 600 !important;
+}
+
+.cart-count:focus-visible, .cart-count:focus{
+border:0px !important;
+outline:none !important;
+box-shadow: none !important;
+}
+
+#carousel::after{
+content: unset !important;
+}
+
+body{
+background-color: #f9f9f9 !important;
+}
+
+.dkLabNoteCartMessage{
+		/* border-radius:24px;
+    margin-bottom: 15px;
+		margin-top:0px !important;
+    width: fit-content;
+    padding: 10px 20px !important; */
+    display:none !important;
+}
+
+/* Desktop – homepage */
+@media screen and (min-width: 1200px) {
+  body.type-index #header
+  /* body.type-index #navigation { */{
+        background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%);
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  #header {
+    background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%) !important;
+  }
+}
+
+/* Mobil a tablet*/
+@media screen and (max-width: 1199px) {
+  .navigation-in > ul > li > a,
+  body.type-index #navigation {
+        background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%);
+  }
+}
+
+@media screen and (max-width: 767px) {
+    .top-navigation-bar {
+            background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%);
+    }
+        .navigation-window-visible .navigation-in > ul > li.ext.exp > ul, .navigation-window-visible .menu-helper>ul>li.ext.exp>ul {
+            background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%);
+    }
+        .navigation-in ul li.ext.exp > a{
+      background-color:#fadfcb ;
+}
+    .navigation-in > ul li a {
+      color: black !important;
+    }
+
+    .dkLabNoteCartMessage{
+gap: 12px;
+margin-top: 15px !important;
+
+
+}
+
+.cart-window-visible .navigation-buttons > a[data-target="cart"] i {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+   .empty-cart-boxes ul li a{
+    padding-left: 65px !important;
+    text-wrap: balance;
+    }
+   .in-kosik .btn-conversion:not(.btn){
+    line-height:50px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    body:not(.type-index) #header, .type-index.no-carousel #header, .type-index.multiple-columns-body #header {
+            background: linear-gradient(to top, #fadfcb 0%, #fbefe6 100%);
+    }
+    /*arrows*/
+    #navigation .menu-level-1 .submenu-arrow, .navigation-in > ul > li:not(.exp) > a.active::after{
+        display: none;
+    }
+       .cart-window-visible .cart-count {
+        background-color: transparent !important;
+    }
+
+}
+.submenu-arrow::after{
+  color: #000 !important;
+}
+
+.next-step-back{
+    display: none !important;
+}
+
+/* AHOME header v1 — only the mobile header, native windows and offsets. */
+.ahome-header-v1-logo {
+  display: none !important;
+}
+
+/* v15: desktop assets are also available before product/header JS initializes. */
+@media screen and (min-width: 768px) {
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .header-top,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-wrapper {
+    background: #fff !important;
+  }
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .site-name > a {
+    display: block !important;
+    width: 220px !important;
+    max-width: 100% !important;
+    height: 44px !important;
+    background: url("/user/documents/upload/Ikonky/logo-slogan.svg") left center / contain no-repeat !important;
+  }
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .site-name > a img {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    clip-path: inset(50%) !important;
+  }
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-buttons .lupa::before,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-buttons [data-target="search"]::before {
+    content: "" !important;
+    display: inline-block !important;
+    width: 28px !important;
+    height: 28px !important;
+    background: url("/user/documents/upload/Ikonky/search.svg") center / contain no-repeat !important;
+    vertical-align: middle;
+  }
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header a.cart-count::before {
+    content: "" !important;
+    display: inline-block !important;
+    width: 28px !important;
+    height: 28px !important;
+    background: url("/user/documents/upload/Ikonky/cart.svg") center / contain no-repeat !important;
+    vertical-align: middle;
+  }
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .menu-helper::before {
+    content: "" !important;
+    display: inline-block !important;
+    width: 48px !important;
+    height: 48px !important;
+    background: url("/user/documents/upload/Ikonky/menu.svg") center / contain no-repeat !important;
+    vertical-align: middle;
+    margin-right: 12px !important;
+  }
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .menu-helper > span::before {
+    display: none !important;
+  }
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header a.cart-count i {
+    background: #f8327b !important;
+    color: #fff !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  html.ahome-header-v1-offsets .top-navigation-bar {
+    top: var(--ahome-header-v1-message-height, 0px) !important;
+  }
+
+  html.ahome-header-v1-offsets #navigation {
+    top: calc(var(--ahome-header-v1-message-height, 0px) + var(--ahome-header-v1-bar-height, 52px)) !important;
+  }
+
+  html.ahome-header-v1-offsets:not(.ahome-header-v1-mobile) #header {
+    margin-bottom: var(--ahome-header-v1-message-height, 0px) !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) body {
+    padding-top: calc(52px + var(--ahome-header-v1-message-height, 0px)) !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar {
+    top: var(--ahome-header-v1-message-height, 0px) !important;
+    position: fixed !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 1000 !important;
+    transform: none !important;
+    width: 100% !important;
+    padding: 0 8px !important;
+    box-sizing: border-box;
+    height: 52px !important;
+    min-height: 52px !important;
+    background: #fff !important;
+    border: 0;
+    box-shadow: none;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar > .container,
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-tools {
+    display: flex !important;
+    width: 100% !important;
+    height: 52px !important;
+    min-height: 0 !important;
+    min-width: 0 !important;
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar > .container {
+    max-width: none !important;
+    padding: 0 !important;
+    box-sizing: border-box;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .responsive-tools {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    align-items: center;
+    width: 100% !important;
+    height: 52px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    min-width: 0 !important;
+    box-sizing: border-box;
+    gap: 0;
+    justify-content: flex-end !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .responsive-tools::after {
+    content: "";
+    order: 3 !important;
+    flex: 0 0 44px;
+    height: 44px;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .responsive-tools > a[data-target="search"] { order: 2 !important; }
+  html:has(body:not(.ordering-process):not(.in-kosik)) .responsive-tools > a[data-target="navigation"] { order: 4 !important; }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .site-name {
+    position: static !important;
+    display: flex !important;
+    align-items: center;
+    flex: 1 1 0 !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 8px 0 0 !important;
+    padding: 0 !important;
+    transform: none !important;
+    line-height: 0;
+    order: 1 !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .site-name > a {
+    display: inline-flex !important;
+    align-items: center;
+    width: 145px !important;
+    max-width: 100% !important;
+    height: 44px !important;
+    padding: 0 !important;
+    background: url("/user/documents/upload/Ikonky/logo-slogan.svg") left center / contain no-repeat !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .site-name img {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    clip-path: inset(50%) !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .site-name img.ahome-header-v1-logo {
+    display: none !important;
+    flex: none;
+    width: 145px !important;
+    height: auto !important;
+    max-width: 100% !important;
+    max-height: none !important;
+    margin: 0 !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .responsive-tools > a[data-target="search"],
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .responsive-tools > a[data-target="navigation"],
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-buttons,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-buttons > a.cart-count {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    left: auto !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 44px;
+    width: 44px !important;
+    height: 44px !important;
+    min-width: 44px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    transform: none !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar a[data-target="search"] {
+    background-image: url("/user/documents/upload/Ikonky/search.svg") !important;
+    background-size: 24px 24px !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header {
+    z-index: auto !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-buttons {
+    position: fixed !important;
+    top: calc(var(--ahome-header-v1-message-height, 0px) + 4px) !important;
+    left: var(--ahome-header-cart-left, calc(100vw - 96px)) !important;
+    right: auto !important;
+    bottom: auto !important;
+    z-index: 1001 !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-buttons > a.cart-count {
+    /* Native announcement handling writes an inline !important top offset.
+       The 44px wrapper already positions the badge; keep the link in its row. */
+    position: static !important;
+    background-image: url("/user/documents/upload/Ikonky/cart.svg") !important;
+    background-size: 24px 24px !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar a[data-target="navigation"] {
+    background-image: url("/user/documents/upload/Ikonky/menu.svg") !important;
+    background-size: 44px 44px !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .responsive-tools > a[data-target="login"],
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .top-navigation-contacts,
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .top-navigation-menu,
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .top-nav-button,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-buttons > .lupa,
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar a[data-target="search"]::before,
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar a[data-target="navigation"]::before,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header a.cart-count::before,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header a.cart-count::after,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header a.cart-count .cart-price {
+    display: none !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header a.cart-count i {
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+    bottom: auto !important;
+    left: auto !important;
+    transform: none !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 20px !important;
+    height: 20px !important;
+    min-width: 20px;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 999px;
+    background: #f8327b !important;
+    color: #fff !important;
+    font-family: Montserrat, sans-serif;
+    font-size: 12px !important;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 20px !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) .top-navigation-bar .responsive-tools a:focus-visible {
+    outline: 2px solid #f8327b !important;
+    outline-offset: -2px;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .header-top {
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    background: #fff !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .search {
+    top: calc(52px + var(--ahome-header-v1-message-height, 0px)) !important;
+  }
+}
+
+/* v2: the native search window must not reserve a closed 52px flow block. */
+@media screen and (max-width: 767px) {
+  html:has(body:not(.ordering-process):not(.in-kosik)) body #header {
+    height: 0 !important;
+    min-height: 0 !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .navigation-wrapper > .header-top > .search {
+    position: fixed !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+
+  html:has(body.search-window-visible:not(.ordering-process):not(.in-kosik)) #header .search {
+    display: block !important;
+    position: fixed !important;
+    z-index: 1002 !important;
+    top: calc(52px + var(--ahome-header-v1-message-height, 0px)) !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: calc(100dvh - 52px - var(--ahome-header-v1-message-height, 0px)) !important;
+    padding: 12px 16px !important;
+    margin: 0 !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
+    transform: none !important;
+    overflow: auto !important;
+    background: #fff !important;
+    box-sizing: border-box;
+  }
+
+  html:has(body.search-window-visible:not(.ordering-process):not(.in-kosik)) #header .search #formSearchForm {
+    display: flex !important;
+    position: static !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
+  }
+
+  html:has(body.search-window-visible:not(.ordering-process):not(.in-kosik)) #header .search #formSearchForm fieldset {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    position: static !important;
+    transform: none !important;
+    align-items: center;
+    gap: 8px;
+    width: 100% !important;
+    height: auto !important;
+    min-width: 0;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+  }
+  /* Keep native suggestions in the scrollable panel's flow, not clipped in the input row. */
+  html:has(body.search-window-visible:not(.ordering-process):not(.in-kosik)) #header .search .search-whisperer {
+    position: static !important;
+    flex: 0 0 100% !important;
+    order: 3;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    margin: 0 !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+    overflow: visible !important;
+  }
+  html:has(body.search-window-visible:not(.ordering-process):not(.in-kosik)) #header .search input[type="search"] {
+    display: block !important;
+    position: static !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    flex: 1 1 0;
+    width: 100% !important;
+    min-width: 0 !important;
+    height: 44px !important;
+    background: #fff !important;
+    color: #1a1a1c !important;
+  }
+
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header > .navigation-wrapper,
+  html:has(body:not(.ordering-process):not(.in-kosik)) #header .header-top {
+    min-height: 0 !important;
+    height: auto !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
+
+/* v20: measured navigation has a single owner, for tablet and desktop. */
+@media screen and (min-width: 768px) {
+  html.ahome-desktop-menu-v9 #header .navigation-wrapper {
+    position: relative !important;
+    overflow: visible !important;
+  }
+  html.ahome-desktop-menu-v9 body #header #navigation {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    position: absolute !important;
+    top: var(--ahome-menu-top, 40px) !important;
+    transform: translateY(-50%) !important;
+    height: 32px !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    bottom: auto !important;
+    overflow: visible !important;
+    left: var(--ahome-menu-left) !important;
+    right: auto !important;
+    width: var(--ahome-menu-width) !important;
+    max-width: var(--ahome-menu-width) !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  html.ahome-desktop-menu-v9 #header .navigation-in {
+    display: block !important;
+    position: static !important;
+    height: 32px !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    top: auto !important;
+    bottom: auto !important;
+    left: 0 !important;
+    right: auto !important;
+    width: max-content !important;
+    max-width: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    transform: none !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+  html.ahome-desktop-menu-v9 #header .navigation-in > .menu-level-1 {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    flex-wrap: nowrap !important;
+    width: max-content !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  /* The custom mobile category panel must not appear below the desktop row. */
+  html.ahome-desktop-menu-v9 #header #navigation > :not(.navigation-in),
+  html.ahome-desktop-menu-v9 #header .navigation-in > :not(.menu-level-1) {
+    display: none !important;
+  }
+  html.ahome-desktop-menu-v9 #header .navigation-in > .menu-level-1 > li {
+    display: block !important;
+    flex: 0 0 auto !important;
+  }
+  html.ahome-desktop-menu-v9 #header .navigation-in > .menu-level-1 > li:not(.splitted) {
+    visibility: visible !important;
+    opacity: 1 !important;
+    color: #1a1a1c !important;
+    font: 500 14px / 1.3 Montserrat, sans-serif !important;
+    white-space: nowrap !important;
+  }
+  html.ahome-desktop-menu-v9 body #header #navigation .navigation-in > .menu-level-1 > li:not(.splitted) > a {
+    visibility: visible !important;
+    opacity: 1 !important;
+    color: #1a1a1c !important;
+    font: 500 14px / 1.3 Montserrat, sans-serif !important;
+    white-space: nowrap !important;
+    display: block !important;
+    border-radius: 8px !important;
+    -webkit-text-fill-color: #1a1a1c !important;
+    background: transparent !important;
+  }
+  html.ahome-desktop-menu-v9 #header .navigation-in > .menu-level-1 > li.splitted {
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+  html.ahome-desktop-menu-v9 #header #navigation .navigation-in > .menu-level-1 > li:not(.splitted) > a > b {
+    display: inline !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    color: #1a1a1c !important;
+    -webkit-text-fill-color: #1a1a1c !important;
+    font: 500 14px / 1.3 Montserrat, sans-serif !important;
+    text-indent: 0 !important;
+  }
+  html.ahome-desktop-menu-v9 body #header .menu-helper {
+    display: flex !important;
+    position: absolute !important;
+    bottom: auto !important;
+    margin: 0 !important;
+    padding: 0 12px !important;
+    box-sizing: border-box;
+    align-items: center;
+    left: var(--ahome-menu-helper-left) !important;
+    right: auto !important;
+    min-width: 96px;
+    width: max-content !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    top: var(--ahome-menu-top, 40px) !important;
+    height: 48px !important;
+    min-height: 48px !important;
+    z-index: 6;
+    transform: translateY(-50%) !important;
+  }
+
+  /* Native desktop and mobile search use different body states. Keep the
+     helper's measured width, but remove its entire subtree from interaction. */
+  html.ahome-desktop-menu-v9 body:is(.search-visible, .search-window-visible) #header .menu-helper,
+  html.ahome-desktop-menu-v9 body:is(.search-visible, .search-window-visible) #header .menu-helper * {
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+
+  html.ahome-desktop-menu-v9 body #header .menu-helper > span {
+    display: inline !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    font: 500 16px / 1.3 Montserrat, sans-serif !important;
+    color: inherit !important;
+  }
+  html.ahome-desktop-menu-v9 #header .menu-helper > .menu-level-1 {
+    right: 0 !important;
+    left: auto !important;
+    max-width: min(90vw, 400px);
+  }
+  html.ahome-desktop-menu-v9 body:not(.menu-helper-visible) #header .menu-helper > .menu-level-1 {
+    display: none !important;
+  }
+  html.ahome-desktop-menu-v9 body.menu-helper-visible #header .menu-helper > .menu-level-1 {
+    display: block !important;
+    position: absolute !important;
+    top: 100% !important;
+    width: min(90vw, 400px) !important;
+    margin: 0 !important;
+    padding: 8px !important;
+    box-sizing: border-box;
+    white-space: normal !important;
+    background: #fff;
+    border: 1px solid #e5e4e7;
+    border-radius: 12px;
+    z-index: 1000;
+  }
+  html.ahome-desktop-menu-v9 body #header .menu-helper > .menu-level-1 > li {
+    display: block !important;
+    float: none !important;
+    width: 100% !important;
+    white-space: normal !important;
+  }
+  html.ahome-desktop-menu-v9 body #header .menu-helper > .menu-level-1 > li.splitted {
+    display: none !important;
+  }
+  html.ahome-desktop-menu-v9 body #header .menu-helper > .menu-level-1 > li > a {
+    display: block !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+  }
+  html.ahome-desktop-menu-v9 body #header #navigation .navigation-in > .menu-level-1 > li:not(.splitted):hover > a,
+  html.ahome-desktop-menu-v9 body #header #navigation .navigation-in > .menu-level-1 > li:not(.splitted) > a:focus-visible {
+    background: #1a1a1c !important;
+    color: #fff !important;
+    -webkit-text-fill-color: #fff !important;
+  }
+  html.ahome-desktop-menu-v9 body #header #navigation .navigation-in > .menu-level-1 > li:not(.splitted):hover > a > b,
+  html.ahome-desktop-menu-v9 body #header #navigation .navigation-in > .menu-level-1 > li:not(.splitted) > a:focus-visible > b {
+    color: #fff !important;
+    -webkit-text-fill-color: #fff !important;
+  }
+  html.ahome-desktop-menu-v9 body #header .menu-helper:hover,
+  html.ahome-desktop-menu-v9 body #header .menu-helper:focus-visible {
+    background: #1a1a1c !important;
+    color: #fff !important;
+    border-radius: 8px !important;
+  }
+  html.ahome-desktop-menu-v9 body #header .menu-helper:hover > span,
+  html.ahome-desktop-menu-v9 body #header .menu-helper:focus-visible > span {
+    color: #fff !important;
+    -webkit-text-fill-color: #fff !important;
+  }
+  html.ahome-desktop-menu-v9 body #header .menu-helper:hover::before,
+  html.ahome-desktop-menu-v9 body #header .menu-helper:focus-visible::before {
+    filter: brightness(0) invert(1);
+  }
+}
+
+
+/* Shared site navigation breadcrumbs; product labels are styled by the product file. */
+.breadcrumbs a.ahome-breadcrumb-home-link {
+  position: static !important;
+  display: inline !important;
+  background: none !important;
+  text-indent: 0 !important;
+  font: inherit !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+.breadcrumbs a.ahome-breadcrumb-home-link::before,
+.breadcrumbs a.ahome-breadcrumb-home-link::after,
+.breadcrumbs a.ahome-breadcrumb-home-link > svg,
+.breadcrumbs a.ahome-breadcrumb-home-link > img,
+.breadcrumbs a.ahome-breadcrumb-home-link > i {
+  content: none !important;
+  display: none !important;
+}
+
+.breadcrumbs a.ahome-breadcrumb-home-link .sr-only {
+  position: static !important;
+  display: inline !important;
+  width: auto !important;
+  height: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  clip: auto !important;
+  clip-path: none !important;
+  overflow: visible !important;
+  font: inherit !important;
+}
+
+.breadcrumbs:has(a.ahome-breadcrumb-home-link)::before,
+.breadcrumbs :is(#navigation-first, [itemprop="itemListElement"]).ahome-breadcrumb-home::before,
+.breadcrumbs :is(#navigation-first, [itemprop="itemListElement"]).ahome-breadcrumb-home::after,
+.breadcrumbs :is(#navigation-first, [itemprop="itemListElement"]) a.ahome-breadcrumb-home-link::before,
+.breadcrumbs :is(#navigation-first, [itemprop="itemListElement"]) a.ahome-breadcrumb-home-link::after {
+  content: none !important;
+  display: none !important;
+  background: none !important;
+}
+
+/* Follow the actual content edge outside the mobile layout. */
+@media screen and (min-width: 768px) {
+  html.ahome-breadcrumbs-v1 .breadcrumbs-wrapper {
+    padding: 12px var(--ahome-breadcrumb-inset, 16px) !important;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 767px) {
+html.ahome-breadcrumbs-v1 .breadcrumbs-wrapper {
+    display: block !important;
+    position: relative !important;
+    z-index: 5 !important;
+    width: 100%;
+    margin: 0 !important;
+    padding: 12px 16px !important;
+    background: #fff !important;
+    box-sizing: border-box;
+  }
+}
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs {
+    display: block !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden;
+    font: 400 12px / 18px Montserrat, sans-serif !important;
+    color: #756f7a !important;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs > span[itemprop="itemListElement"],
+  html.ahome-breadcrumbs-v1 body .breadcrumbs > span[itemprop="itemListElement"] span,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs a {
+    display: inline !important;
+    position: static !important;
+    float: none !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font: inherit !important;
+    color: inherit !important;
+    background: none !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs a {
+    text-decoration: none !important;
+    pointer-events: auto !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs > span[itemprop="itemListElement"] span.navigation-bullet,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs a::before,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs a::after,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs::before,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs::after {
+    display: none !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs #navigation-first .sr-only {
+    position: static !important;
+    display: inline !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    clip: auto !important;
+    clip-path: none !important;
+    overflow: visible !important;
+    white-space: nowrap !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs #navigation-first a.navigation-home-icon::before,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs #navigation-first a.navigation-home-icon::after {
+    content: none !important;
+    display: none !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs #navigation-first,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs #navigation-first a.navigation-home-icon {
+    display: inline !important;
+    position: static !important;
+    float: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    vertical-align: baseline !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs > span[itemprop="itemListElement"]:not(#navigation-first)::before {
+    content: "/" !important;
+    display: inline !important;
+    margin: 0 6px !important;
+    color: #756f7a;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs > span[itemprop="itemListElement"][data-testid="breadcrumbsLastLevel"],
+  html.ahome-breadcrumbs-v1 body .breadcrumbs > span[itemprop="itemListElement"][data-testid="breadcrumbsLastLevel"] span {
+    font-weight: 600 !important;
+    color: #312b28 !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs > span:is(#navigation-1, #navigation-2, #navigation-3, #navigation-4, #navigation-5, #navigation-6).ahome-breadcrumb-duplicate {
+    display: none !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs .ahome-breadcrumb-home,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs a.ahome-breadcrumb-home-link,
+  html.ahome-breadcrumbs-v1 body .breadcrumbs a.ahome-breadcrumb-home-link .sr-only {
+    display: inline !important;
+    position: static !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: auto !important;
+    height: auto !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    clip: auto !important;
+    clip-path: none !important;
+    overflow: visible !important;
+    font: inherit !important;
+    color: inherit !important;
+  }
+
+html.ahome-breadcrumbs-v1 body .breadcrumbs .ahome-breadcrumb-home::before {
+    content: none !important;
+  }
+
+/* Cart header: Figma 83:6761, with the approved 52px row instead of 64px.
+   Scoped to cart only; order steps, contents and checkout headers stay native. */
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) body #header {
+  display: block !important;
+  position: relative !important;
+  inset: auto !important;
+  transform: none !important;
+  width: 100% !important;
+  height: 52px !important;
+  min-height: 52px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #fff !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .navigation-wrapper {
+  width: 100% !important;
+  max-width: 1200px !important;
+  height: 52px !important;
+  min-height: 0 !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+  background: #fff !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .header-top {
+  display: flex !important;
+  position: static !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  flex-wrap: nowrap !important;
+  gap: 12px;
+  width: 100% !important;
+  height: 52px !important;
+  min-height: 0 !important;
+  padding: 10px 16px !important;
+  margin: 0 !important;
+  box-sizing: border-box;
+  background: #fff !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) .top-navigation-bar,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header #navigation,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .menu-helper,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .header-top > :not(.site-name-wrapper):not(.site-name):not(.ahome-cart-header-back) {
+  display: none !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .header-top > .site-name-wrapper,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .header-top > .site-name {
+  display: block !important;
+  position: static !important;
+  flex: 0 1 159px !important;
+  width: 159px !important;
+  max-width: 159px !important;
+  min-width: 0 !important;
+  height: 32px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  transform: none !important;
+  order: 0 !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name-wrapper > .site-name {
+  display: block !important;
+  position: static !important;
+  float: none !important;
+  width: 100% !important;
+  max-width: none !important;
+  height: 32px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  transform: none !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name > a {
+  display: block !important;
+  position: relative !important;
+  width: 100% !important;
+  height: 32px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: url('/user/documents/upload/Ikonky/logo-slogan.svg') left center / contain no-repeat !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name img {
+  display: none !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name:not(.ahome-cart-header-logo),
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name > a:not(.ahome-cart-logo-link),
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name::before,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name::after,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name > a::before,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .site-name > a::after {
+  display: none !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) body #header .header-top > .ahome-cart-header-back {
+  display: inline-flex !important;
+  position: static !important;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 155px !important;
+  width: 155px !important;
+  max-width: none !important;
+  height: 32px !important;
+  min-height: 32px !important;
+  padding: 0 16px !important;
+  margin: 0 !important;
+  margin-left: auto !important;
+  order: 1 !important;
+  border: 0 !important;
+  border-radius: 999px !important;
+  box-sizing: border-box;
+  background: linear-gradient(169.15deg, #d3297e 7.66%, #8c3083 99.83%) !important;
+  color: #fff !important;
+  -webkit-text-fill-color: #fff !important;
+  font: 700 12px / 1.2 Montserrat, sans-serif !important;
+  text-decoration: none !important;
+  text-transform: none !important;
+  white-space: nowrap;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .ahome-cart-header-back::before,
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .ahome-cart-header-back::after {
+  content: none !important;
+  display: none !important;
+}
+html:is(.ahome-cart-header-v20, :has(body.in-kosik)) #header .ahome-cart-header-back:focus-visible {
+  outline: 2px solid #8c3083;
+  outline-offset: 2px;
+}
